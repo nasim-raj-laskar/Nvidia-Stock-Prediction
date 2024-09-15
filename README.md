@@ -1,4 +1,4 @@
-# Nvidia Stock Price Prediction (Increase/Decrease Prediction)
+# Nvidia Stock Price Prediction (Increase/Decrease Prediction)💹
 The Stock Prediction Model project aims to predict future stock price movements using machine learning techniques. By analyzing historical stock data, the model determines whether the price of a stock will rise or fall on the following trading day.
 
 This project utilizes the yfinance library to fetch historical stock data and preprocess it to create relevant features. It then applies a Random Forest Classifier, a robust machine learning algorithm, to predict whether the stock price will increase or decrease.
